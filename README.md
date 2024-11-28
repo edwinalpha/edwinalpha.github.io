@@ -11,6 +11,8 @@
 <title>区艺锋的个人网站</title>
 </head> 
 <body>
+  
+<!--注释：这里最开始弄的这个表格，在最后那里的110行才收起来。其实这个表格是用来做侧边栏的。-->
 <table summary="Table for page layout." id="tlayout">
 <tr valign="top">
 <td id="layout-menu">
@@ -105,8 +107,6 @@ I am currently pursuing a PhD at The Hong Kong University of Science and Technol
 
 <a href="cv/cv.pdf">A brief cv</a>.</p>
 
-</td>
-</tr>
-</table>
+</td></tr></table>
 </body>
 </html>
